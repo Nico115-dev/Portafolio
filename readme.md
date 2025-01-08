@@ -41,33 +41,5 @@ Sigue los pasos a continuación para ejecutar este proyecto localmente:
 - Explora mis proyectos y aprende más sobre ellos.
 - Utiliza el formulario de contacto para enviarme un mensaje.
 
-## Contribuciones
-
-Si deseas contribuir o sugerir mejoras:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama:
-   ```bash
-   git checkout -b nombre-de-la-funcionalidad
-   ```
-3. Realiza tus cambios y haz un commit:
-   ```bash
-   git commit -m "Agregar descripción de la funcionalidad o corrección"
-   ```
-4. Sube los cambios a tu rama:
-   ```bash
-   git push origin nombre-de-la-funcionalidad
-   ```
-5. Abre un pull request.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-No dudes en contactarme por correo electrónico en [tu-correo@example.com] o conectarte conmigo en [LinkedIn](https://linkedin.com/in/tu-perfil).
-
----
 
 ¡Gracias por visitar mi portafolio!
